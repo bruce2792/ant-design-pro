@@ -3,7 +3,7 @@
   "version": "5.1.0",
   "private": true,
   "description": "An out-of-box UI solution for enterprise applications",
-  "scripts": {
+  "scripts": { 
     "analyze": "cross-env ANALYZE=1 umi build",
     "build": "umi build",
     "deploy": "npm run build && npm run gh-pages",
